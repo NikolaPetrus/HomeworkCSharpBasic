@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.exe
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.deps.json
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.dll
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.pdb
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.dll
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.pdb
+C:\Users\code\Desktop\C# Basic\Homework 1\TrafficLight\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.genruntimeconfig.cache
