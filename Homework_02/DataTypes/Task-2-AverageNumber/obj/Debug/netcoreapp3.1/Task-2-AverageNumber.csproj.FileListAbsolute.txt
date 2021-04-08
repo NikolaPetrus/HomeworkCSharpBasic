@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\bin\Debug\netcoreapp3.1\Task-2-AverageNumber.exe
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\bin\Debug\netcoreapp3.1\Task-2-AverageNumber.deps.json
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\bin\Debug\netcoreapp3.1\Task-2-AverageNumber.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\bin\Debug\netcoreapp3.1\Task-2-AverageNumber.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\bin\Debug\netcoreapp3.1\Task-2-AverageNumber.dll
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\bin\Debug\netcoreapp3.1\Task-2-AverageNumber.pdb
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\obj\Debug\netcoreapp3.1\Task-2-AverageNumber.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\obj\Debug\netcoreapp3.1\Task-2-AverageNumber.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\obj\Debug\netcoreapp3.1\Task-2-AverageNumber.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\obj\Debug\netcoreapp3.1\Task-2-AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\obj\Debug\netcoreapp3.1\Task-2-AverageNumber.dll
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\obj\Debug\netcoreapp3.1\Task-2-AverageNumber.pdb
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-2-AverageNumber\obj\Debug\netcoreapp3.1\Task-2-AverageNumber.genruntimeconfig.cache

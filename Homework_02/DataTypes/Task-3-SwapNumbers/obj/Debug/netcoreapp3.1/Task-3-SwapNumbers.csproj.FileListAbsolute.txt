@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\bin\Debug\netcoreapp3.1\Task-3-SwapNumbers.exe
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\bin\Debug\netcoreapp3.1\Task-3-SwapNumbers.deps.json
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\bin\Debug\netcoreapp3.1\Task-3-SwapNumbers.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\bin\Debug\netcoreapp3.1\Task-3-SwapNumbers.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\bin\Debug\netcoreapp3.1\Task-3-SwapNumbers.dll
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\bin\Debug\netcoreapp3.1\Task-3-SwapNumbers.pdb
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\obj\Debug\netcoreapp3.1\Task-3-SwapNumbers.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\obj\Debug\netcoreapp3.1\Task-3-SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\obj\Debug\netcoreapp3.1\Task-3-SwapNumbers.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\obj\Debug\netcoreapp3.1\Task-3-SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\obj\Debug\netcoreapp3.1\Task-3-SwapNumbers.dll
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\obj\Debug\netcoreapp3.1\Task-3-SwapNumbers.pdb
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-3-SwapNumbers\obj\Debug\netcoreapp3.1\Task-3-SwapNumbers.genruntimeconfig.cache

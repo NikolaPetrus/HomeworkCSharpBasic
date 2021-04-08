@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\bin\Debug\netcoreapp3.1\Task-1-RealCalculator.exe
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\bin\Debug\netcoreapp3.1\Task-1-RealCalculator.deps.json
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\bin\Debug\netcoreapp3.1\Task-1-RealCalculator.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\bin\Debug\netcoreapp3.1\Task-1-RealCalculator.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\bin\Debug\netcoreapp3.1\Task-1-RealCalculator.dll
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\bin\Debug\netcoreapp3.1\Task-1-RealCalculator.pdb
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\obj\Debug\netcoreapp3.1\Task-1-RealCalculator.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\obj\Debug\netcoreapp3.1\Task-1-RealCalculator.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\obj\Debug\netcoreapp3.1\Task-1-RealCalculator.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\obj\Debug\netcoreapp3.1\Task-1-RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\obj\Debug\netcoreapp3.1\Task-1-RealCalculator.dll
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\obj\Debug\netcoreapp3.1\Task-1-RealCalculator.pdb
+C:\Users\code\Desktop\C# Basic\Homework_02\DataTypes\Task-1-RealCalculator\obj\Debug\netcoreapp3.1\Task-1-RealCalculator.genruntimeconfig.cache
