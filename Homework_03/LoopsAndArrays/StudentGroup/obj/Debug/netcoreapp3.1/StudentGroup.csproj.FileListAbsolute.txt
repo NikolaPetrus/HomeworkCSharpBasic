@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.exe
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.deps.json
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.dll
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.pdb
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.dll
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.pdb
+C:\Users\code\Desktop\C# Basic\Homework_03\LoopsAndArrays\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.genruntimeconfig.cache
