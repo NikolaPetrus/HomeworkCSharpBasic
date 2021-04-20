@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\code\\Desktop\\C# Basic\\Homework_03\\LoopsAndArrays\\StudentGroup\\StudentGroup.csproj",
-      "projectName": "StudentGroup",
-      "projectPath": "C:\\Users\\code\\Desktop\\C# Basic\\Homework_03\\LoopsAndArrays\\StudentGroup\\StudentGroup.csproj",
+      "projectUniqueName": "C:\\Users\\code\\Desktop\\C# Basic\\Homework_03\\LoopsAndArrays\\StudentGroup\\Task-2-StudentGroup.csproj",
+      "projectName": "Task-2-StudentGroup",
+      "projectPath": "C:\\Users\\code\\Desktop\\C# Basic\\Homework_03\\LoopsAndArrays\\StudentGroup\\Task-2-StudentGroup.csproj",
       "packagesPath": "C:\\Users\\code\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\code\\Desktop\\C# Basic\\Homework_03\\LoopsAndArrays\\StudentGroup\\obj\\",
       "projectStyle": "PackageReference",
