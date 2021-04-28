@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\bin\Debug\netcoreapp3.1\Task-1-AgeToDays.exe
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\bin\Debug\netcoreapp3.1\Task-1-AgeToDays.deps.json
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\bin\Debug\netcoreapp3.1\Task-1-AgeToDays.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\bin\Debug\netcoreapp3.1\Task-1-AgeToDays.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\bin\Debug\netcoreapp3.1\Task-1-AgeToDays.dll
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\bin\Debug\netcoreapp3.1\Task-1-AgeToDays.pdb
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\obj\Debug\netcoreapp3.1\Task-1-AgeToDays.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\obj\Debug\netcoreapp3.1\Task-1-AgeToDays.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\obj\Debug\netcoreapp3.1\Task-1-AgeToDays.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\obj\Debug\netcoreapp3.1\Task-1-AgeToDays.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\obj\Debug\netcoreapp3.1\Task-1-AgeToDays.dll
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\obj\Debug\netcoreapp3.1\Task-1-AgeToDays.pdb
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-1-AgeToDays\obj\Debug\netcoreapp3.1\Task-1-AgeToDays.genruntimeconfig.cache

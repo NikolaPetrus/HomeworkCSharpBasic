@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\bin\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.exe
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\bin\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.deps.json
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\bin\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\bin\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\bin\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.dll
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\bin\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.pdb
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\obj\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\obj\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\obj\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\obj\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\obj\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.dll
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\obj\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.pdb
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\WindDrawsLosses\obj\Debug\netcoreapp3.1\Task-3-WindDrawsLosses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\bin\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.exe
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\bin\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.deps.json
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\bin\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\bin\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\bin\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.dll
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\bin\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.pdb
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\obj\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\obj\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\obj\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\obj\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\obj\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.dll
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\obj\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.pdb
+C:\Users\code\Desktop\C# Basic\Homework_04\MethodsDatesAndStrings\Task-2-MinutesToSeconds\obj\Debug\netcoreapp3.1\Task-2-MinutesToSeconds.genruntimeconfig.cache
