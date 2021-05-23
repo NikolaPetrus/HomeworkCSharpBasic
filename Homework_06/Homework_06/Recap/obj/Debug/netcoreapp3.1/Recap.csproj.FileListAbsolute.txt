@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\bin\Debug\netcoreapp3.1\Recap.exe
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\bin\Debug\netcoreapp3.1\Recap.deps.json
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\bin\Debug\netcoreapp3.1\Recap.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\bin\Debug\netcoreapp3.1\Recap.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\bin\Debug\netcoreapp3.1\Recap.dll
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\bin\Debug\netcoreapp3.1\Recap.pdb
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\obj\Debug\netcoreapp3.1\Recap.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\obj\Debug\netcoreapp3.1\Recap.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\obj\Debug\netcoreapp3.1\Recap.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\obj\Debug\netcoreapp3.1\Recap.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\obj\Debug\netcoreapp3.1\Recap.dll
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\obj\Debug\netcoreapp3.1\Recap.pdb
+C:\Users\code\Desktop\C# Basic\Homework_06\Homework_06\Recap\obj\Debug\netcoreapp3.1\Recap.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.exe
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.deps.json
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.json
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.dll
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.pdb
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.dll
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.pdb
+C:\Users\code\Desktop\C# Basic\Homework_05\Homework_05\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.genruntimeconfig.cache
